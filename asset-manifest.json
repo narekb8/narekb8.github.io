@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b17a9d53.css",
+    "main.js": "/static/js/main.ff4177ae.js",
+    "static/js/453.1bf4f341.chunk.js": "/static/js/453.1bf4f341.chunk.js",
+    "static/media/Eightgon-OGn6p.ttf": "/static/media/Eightgon-OGn6p.4f60982b24bebfe5ea81.ttf",
+    "index.html": "/index.html",
+    "main.b17a9d53.css.map": "/static/css/main.b17a9d53.css.map",
+    "main.ff4177ae.js.map": "/static/js/main.ff4177ae.js.map",
+    "453.1bf4f341.chunk.js.map": "/static/js/453.1bf4f341.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b17a9d53.css",
+    "static/js/main.ff4177ae.js"
+  ]
+}
